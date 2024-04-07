@@ -76,7 +76,7 @@ The data from Ergest Developer API is imported into raw ADLS container on Azure.
 ![Dominant Teams](./images/dominant_teams.png)
 
 ## Technologies Used:
-- Datadricks
+- Databricks
 - Azure
 - ADF
 - PySpark
